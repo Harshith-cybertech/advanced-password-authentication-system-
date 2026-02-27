@@ -274,4 +274,5 @@ tk.Button(admin_frame, text="Back to Login",
 # ---------------- START ---------------- #
 
 show_frame(register_frame)
+
 app.mainloop()
